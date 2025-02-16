@@ -1,2 +1,2 @@
 # t_tech_2
-nuevo repo de pruebas
+nuevo repo de pruebas 1
